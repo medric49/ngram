@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+main.ipynb
+*.png
+1g-word-1m-benchmark-r13output
+arpas
+bins
+texts
